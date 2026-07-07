@@ -1,13 +1,13 @@
 {
   "software_name": "DATA VALIDATOR1234",
   "version": "1.0.0.1",
-  "release_id": 1,
-  "published_at": "07-07-2026 10:17 PM",
-  "exe_url": "https://raw.githubusercontent.com/Lokeshboyini/myproject/main/updates/data_validator/releases/1/DataValidator.exe",
+  "release_id": 2,
+  "published_at": "07-07-2026 10:26 PM",
+  "exe_url": "https://raw.githubusercontent.com/Lokeshboyini/myproject/main/updates/data_validator/releases/2/DataValidator.exe",
   "latest_exe_url": "https://raw.githubusercontent.com/Lokeshboyini/myproject/main/updates/data_validator/latest/DataValidator.exe",
-  "changelog_url": "https://raw.githubusercontent.com/Lokeshboyini/myproject/main/updates/data_validator/releases/1/changelog.txt",
-  "changelog": "Published by admin on 07-07-2026 10:16 PM",
-  "sha256": "0928e64d3cc3e846fe021dfed405b044e5aefaf691b1d9b14c6162376642065b",
-  "file_size": 31897040,
+  "changelog_url": "https://raw.githubusercontent.com/Lokeshboyini/myproject/main/updates/data_validator/releases/2/changelog.txt",
+  "changelog": "Published by admin on 07-07-2026 10:26 PM",
+  "sha256": "59ff34e8b187018a9786d548e975415747679eb32152efc89ef7c305c185e4c3",
+  "file_size": 31896981,
   "force_update": false
 }
